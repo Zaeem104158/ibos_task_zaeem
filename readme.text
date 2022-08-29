@@ -1,0 +1,6 @@
+1. npx react-native start  = Start Metro (react native CLI).
+2. npx react-native run-android = Start or Debug project in mobile.
+3.react-native-paper package is using here.
+4.react-native-elements is using here.
+5.react-native-drop-shadow is using here.
+6. personal device Redmi note 8 pro is using for this task.
